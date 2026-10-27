@@ -1,0 +1,8 @@
+{
+  "name": "Akhil Dental Clinic & Healthcare Network",
+  "description": "Comprehensive dental clinic website for Akhil Dental Clinic, Puja Dental Clinic, and Madhv Medical Store in Sanganer, Jaipur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
